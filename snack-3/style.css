@@ -1,0 +1,16 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    font-size: 40px;
+    text-align: center;
+}
+
+#green {
+    color: green;
+    width: 50%;
+}
+#red {
+    color: red;
+    width: 50%;
+}
